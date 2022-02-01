@@ -6,8 +6,9 @@ This readme includes the attribution required by said license, hence you are enc
 
 
 Sky/Cloud boxes created by Zachery "freezurbern" Slocum
-(mail@freezurbern.com)
-http://www.freezurbern.com
+(mail@zslocum.dev)
+https://github.com/freezurbern/skybox
+https://zslocum.dev/
 
 Originally created for the first person shooters "Cube 2: Sauerbraten" and "Red Eclipse"
 http://sauerbraten.org/
